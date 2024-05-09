@@ -1,0 +1,8 @@
+@import url(./basic-styles.css);
+
+.container {
+  border: 10px solid aqua;
+  display: grid;
+  grid-template-columns: 150px auto 2fr 3fr;
+  gap: 25px;
+}
